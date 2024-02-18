@@ -1,0 +1,8 @@
+.verification-button{
+	all: unset;
+  	cursor: pointer;
+	font-family: 'Poppins';
+	color: rgb(94, 94, 253);
+	background-color: Transparent;
+	text-align: center;
+}

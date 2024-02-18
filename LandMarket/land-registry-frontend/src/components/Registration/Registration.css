@@ -1,0 +1,22 @@
+.reg-form{
+	background: linear-gradient(118.73deg, #B829EA 60%, rgba(92, 19, 165, 0) 99.36%);
+	filter: drop-shadow(6px 7px 4px rgba(0, 0, 0, 0.25));
+	border-radius: 19px;
+	padding: 3em;
+	color: white;
+	font-size: large;
+}
+
+.sub-button{
+	all: unset;
+  	cursor: pointer;
+	width: 171px;
+	height: 70px;
+	border-radius: 20px;
+	font-family: 'Poppins';
+	font-weight: bold;
+	color: white !important;
+	background-color: #543DDC;
+	text-align: center;
+}
+

@@ -1,0 +1,71 @@
+.menu{
+	background: #3F3D56;
+	padding: 3em;
+	color: white;
+	font-size: large;
+	text-align: center;
+}
+.content{
+	background: linear-gradient(118.73deg, #B829EA 10%, rgba(92, 19, 165, 0) 100.36%);
+	filter: drop-shadow(6px 7px 4px rgba(0, 0, 0, 0.25));
+	padding: 3em;
+	color: white;
+	font-size: large;
+}
+
+.dashboard-content {
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+}
+
+
+.menu-button{
+	all: unset;
+  	cursor: pointer;
+	width: 100%;
+    box-sizing: border-box; 
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Poppins';
+	color: white !important;
+	background-color: #3F3D56;
+	text-align: center;
+}
+
+.test-button{
+	all: unset;
+  	cursor: pointer;
+	width: 100%;
+    box-sizing: border-box; 
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Poppins';
+	color: white !important;
+	background-color: #5D5A7D;
+	text-align: center;
+
+}
+
+.owned-card {
+	background: linear-gradient(180deg, #EE1ED9 0%, #FFB876 100%);
+	border-radius: 14px;
+	width: 30%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.earned-card {
+	background: linear-gradient(180deg, #39c723 0%, #38afca 100%);
+	border-radius: 14px;
+	width: 30%;
+	text-align: center;
+}
+
+.lost-card {
+	background: linear-gradient(180deg, #FFD600 0%, #EF5959 100%);
+	border-radius: 14px;
+	width: 30%;
+	text-align: center;
+}
+
